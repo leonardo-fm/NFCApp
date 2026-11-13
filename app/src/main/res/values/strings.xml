@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NFC Reader</string>
+    <string name="waiting">Avvicina una carta NFC al telefono</string>
+    <string name="busy">In corso, tieni la carta ferma</string>
+    <string name="card_read">Carta letta</string>
+    <string name="no_nfc">Questo telefono non ha NFC</string>
+    <string name="nfc_off">Attiva l\'NFC nelle impostazioni del telefono</string>
+    <string name="format_hex">Hex</string>
+    <string name="format_utf8">UTF-8</string>
+    <string name="format_ascii">ASCII</string>
+    <string name="copy_memory">Copia memoria</string>
+    <string name="copy_saved">Copia salvata: %d byte</string>
+    <string name="write_copy">Scrivi la copia</string>
+    <string name="cancel_write">Annulla scrittura</string>
+    <string name="write_waiting">Avvicina la carta su cui scrivere la copia</string>
+    <string name="write_title">Scrivere la copia?</string>
+    <string name="write_message">Le pagine utente della carta con UID %s saranno sovrascritte. UID e configurazione restano invariati.</string>
+    <string name="write_yes">Scrivi</string>
+    <string name="cancel">Annulla</string>
+    <string name="write_failed">Scrittura interrotta (%s): la carta può essere incompleta, scrivi di nuovo la copia.</string>
+</resources>
